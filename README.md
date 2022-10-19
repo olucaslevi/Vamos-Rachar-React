@@ -1,5 +1,8 @@
 ## Vamos Rachar
 Trabalho da disciplina de Programação para Dispostivos Móveis do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
+.botão de alterar tema claro/escuro funcional
+.display responsivo
+.botões de compartilhar aparecem desde que os valores que o usuário digitou sejam válidos.
 ### Vídeo:
 
 
